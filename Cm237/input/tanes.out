@@ -1,0 +1,1804 @@
+
+ -------------------------------------------------------------
+ -                                                           -
+ -             Welcome to TANES version 1.1                  -
+ -                                                           -
+ -                (Version Feb. 18, 2025)                    -
+ -  (C) Copyright 2007-2025. Rochman, All Rights Reserved    -
+ -                                                           -
+ -------------------------------------------------------------
+
+
+   Compiled on:         Apr 25 2025, 10:33:13
+   Compiled by:         koning
+   System:              Darwin 21.6.0
+   System version:      Darwin Kernel Version 21.6.0: Mon Jun 24 00:56:10 PDT 2024; root:xnu-8020.240.18.709.2~1/RELEASE_X86_64  
+   Machine:             x86_64 
+   Source location:     /Users/koning/tanes-1.1/source/Module/
+   Binaries location:   /Users/koning/bin
+
+
+Starting time: Sat Apr 26 05:34:51 2025
+          --> Isotope name: Cm
+
+       ###############################################
+       #             Input definition                #
+       ###############################################
+
+Tanes called with command line: tanes tanes.inp 
+Mass      = 237
+Charge    = 96
+Reference = none
+Model     = Los Alamos model
+Random    = 6 random files
+Default random generator seed chosen: current time
+
+       ###############################################
+       #           End of Input definition           #
+       ###############################################
+
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 0 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 0 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 0 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 0 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 0 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 0 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 0 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 1 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 1 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 1 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 1 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 1 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 1 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 1 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 2 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 2 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 2 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 2 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 2 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 2 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 2 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 3 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 3 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 3 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 3 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 3 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 3 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 3 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 4 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 4 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 4 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 4 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 4 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 4 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 4 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 5 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 5 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 5 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 5 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 5 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 5 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 5 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 6 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 6 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 6 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 6 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 6 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 6 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 6 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 7 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 7 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 7 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 7 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 7 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 7 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 7 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 8 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 8 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 8 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 8 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 8 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 8 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 8 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 9 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 9 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 9 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 9 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 9 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 9 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 9 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 10 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 10 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 10 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 10 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 10 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 10 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 10 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 11 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 11 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 11 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 11 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 11 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 11 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 11 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 12 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 12 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 12 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 12 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 12 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 12 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 12 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 13 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 13 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 13 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 13 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 13 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 13 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 13 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 14 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 14 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 14 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 14 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 14 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 14 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 14 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 15 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 15 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 15 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 15 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 15 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 15 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 15 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 16 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 16 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 16 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 16 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 16 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 16 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 16 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 17 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 17 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 17 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 17 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 17 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 17 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 17 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 18 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 18 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 18 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 18 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 18 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 18 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 18 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 19 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 19 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 19 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 19 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 19 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 19 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 19 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 20 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 20 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 20 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 20 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 20 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 20 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 20 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 21 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 21 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 21 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 21 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 21 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 21 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 21 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 22 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 22 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 22 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 22 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 22 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 22 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 22 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 23 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 23 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 23 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 23 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 23 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 23 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 23 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 24 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 24 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 24 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 24 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 24 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 24 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 24 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 25 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 25 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 25 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 25 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 25 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 25 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 25 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 26 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 26 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 26 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 26 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 26 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 26 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 26 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 27 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 27 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 27 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 27 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 27 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 27 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 27 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 28 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 28 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 28 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 28 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 28 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 28 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 28 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 29 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 29 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 29 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 29 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 29 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 29 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 29 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 30 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 30 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 30 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 30 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 30 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 30 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 30 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 31 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 31 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 31 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 31 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 31 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 31 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 31 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 32 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 32 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 32 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 32 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 32 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 32 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 32 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 33 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 33 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 33 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 33 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 33 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 33 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 33 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 34 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 34 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 34 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 34 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 34 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 34 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 34 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 35 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 35 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 35 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 35 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 35 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 35 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 35 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 36 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 36 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 36 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 36 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 36 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 36 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 36 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 37 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 37 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 37 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 37 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 37 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 37 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 37 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 38 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 38 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 38 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 38 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 38 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 38 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 38 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 39 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 39 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 39 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 39 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 39 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 39 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 39 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 40 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 40 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 40 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 40 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 40 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 40 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 40 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 41 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 41 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 41 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 41 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 41 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 41 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 41 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 42 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 42 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 42 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 42 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 42 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 42 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 42 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 43 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 43 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 43 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 43 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 43 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 43 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 43 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 44 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 44 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 44 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 44 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 44 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 44 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 44 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 45 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 45 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 45 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 45 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 45 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 45 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 45 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 46 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 46 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 46 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 46 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 46 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 46 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 46 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 47 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 47 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 47 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 47 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 47 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 47 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 47 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 48 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 48 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 48 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 48 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 48 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 48 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 48 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 0 and energy number 49 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 1 and energy number 49 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 2 and energy number 49 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 3 and energy number 49 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 4 and energy number 49 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 5 and energy number 49 (out of 50)
+MT3 for 96237 not found
+MT  3 19 for 96237 not found
+MT3 for 96237 not found
+MT  3 20 for 96237 not found
+Create input file for pfns for k= 6 and energy number 49 (out of 50)
+Extract MF5 MT455
+ MF5 MT 455 not found in existing libraries, systematics will be used
+Extract MF1 MT455
+ MF1 MT 455 not found in existing libraries, systematics will be used
+6
+ Write text for MF1 in file mf1.tanes.txt
+
+-------------------------------------------------------------
+-                                                           -
+-                TANES: successful end of run               -
+-                                                           -
+-------------------------------------------------------------
+
+End time: Sat Apr 26 05:49:29 2025
+

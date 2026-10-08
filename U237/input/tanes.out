@@ -1,0 +1,753 @@
+
+ -------------------------------------------------------------
+ -                                                           -
+ -             Welcome to TANES version 1.1                  -
+ -                                                           -
+ -                (Version Feb. 18, 2025)                    -
+ -  (C) Copyright 2007-2025. Rochman, All Rights Reserved    -
+ -                                                           -
+ -------------------------------------------------------------
+
+
+   Compiled on:         Apr 25 2025, 10:33:13
+   Compiled by:         koning
+   System:              Darwin 21.6.0
+   System version:      Darwin Kernel Version 21.6.0: Mon Jun 24 00:56:10 PDT 2024; root:xnu-8020.240.18.709.2~1/RELEASE_X86_64  
+   Machine:             x86_64 
+   Source location:     /Users/koning/tanes-1.1/source/Module/
+   Binaries location:   /Users/koning/bin
+
+
+Starting time: Fri Apr 25 23:06:42 2025
+          --> Isotope name: U
+
+       ###############################################
+       #             Input definition                #
+       ###############################################
+
+Tanes called with command line: tanes tanes.inp 
+Mass      = 237
+Charge    = 92
+Reference = endfb8.0
+Model     = Los Alamos model
+Random    = 10 random files
+Default random generator seed chosen: current time
+
+       ###############################################
+       #           End of Input definition           #
+       ###############################################
+
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 0 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 0 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 0 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 0 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 0 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 0 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 0 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 0 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 0 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 0 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 0 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 1 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 1 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 1 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 1 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 1 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 1 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 1 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 1 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 1 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 1 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 1 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 2 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 2 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 2 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 2 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 2 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 2 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 2 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 2 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 2 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 2 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 2 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 3 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 3 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 3 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 3 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 3 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 3 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 3 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 3 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 3 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 3 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 3 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 4 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 4 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 4 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 4 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 4 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 4 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 4 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 4 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 4 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 4 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 4 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 5 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 5 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 5 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 5 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 5 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 5 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 5 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 5 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 5 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 5 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 5 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 6 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 6 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 6 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 6 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 6 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 6 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 6 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 6 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 6 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 6 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 6 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 7 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 7 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 7 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 7 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 7 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 7 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 7 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 7 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 7 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 7 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 7 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 8 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 8 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 8 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 8 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 8 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 8 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 8 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 8 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 8 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 8 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 8 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 9 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 9 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 9 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 9 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 9 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 9 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 9 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 9 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 9 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 9 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 9 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 10 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 10 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 10 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 10 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 10 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 10 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 10 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 10 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 10 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 10 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 10 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 11 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 11 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 11 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 11 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 11 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 11 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 11 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 11 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 11 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 11 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 11 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 12 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 12 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 12 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 12 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 12 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 12 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 12 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 12 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 12 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 12 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 12 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 13 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 13 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 13 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 13 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 13 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 13 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 13 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 13 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 13 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 13 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 13 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 14 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 14 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 14 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 14 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 14 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 14 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 14 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 14 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 14 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 14 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 14 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 15 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 15 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 15 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 15 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 15 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 15 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 15 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 15 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 15 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 15 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 15 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 16 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 16 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 16 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 16 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 16 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 16 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 16 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 16 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 16 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 16 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 16 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 17 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 17 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 17 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 17 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 17 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 17 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 17 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 17 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 17 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 17 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 17 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 18 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 18 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 18 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 18 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 18 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 18 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 18 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 18 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 18 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 18 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 18 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 0 and energy number 19 (out of 20)
+------LF=  7 , representation as Maxwellian spectrum
+ ... calculate ratios
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 1 and energy number 19 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 2 and energy number 19 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 3 and energy number 19 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 4 and energy number 19 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 5 and energy number 19 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 6 and energy number 19 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 7 and energy number 19 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 8 and energy number 19 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 9 and energy number 19 (out of 20)
+MT  3 19 for 92237 not found
+MT  3 20 for 92237 not found
+Create input file for pfns for k= 10 and energy number 19 (out of 20)
+Extract MF5 MT455
+ MF5 MT 455 found in /Users/koning/tanes-1.1/source/Module//../../inputs/lib/endfb8.0.delayed
+Extract MF1 MT455
+10
+ Write text for MF1 in file mf1.tanes.txt
+
+-------------------------------------------------------------
+-                                                           -
+-                TANES: successful end of run               -
+-                                                           -
+-------------------------------------------------------------
+
+End time: Fri Apr 25 23:16:11 2025
+
